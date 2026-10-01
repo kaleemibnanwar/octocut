@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/kaleemibnanwar/octocut/releases/download/v2.6.10/octo-logo.png" alt="Octo Cut logo" width="190">
+
 # 🎬 Octo Cut
 
 ### The video editor that's **free**, **fast**, and built to be driven by you—or your AI agent.
